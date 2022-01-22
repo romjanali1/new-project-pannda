@@ -1,0 +1,5 @@
+.primary{
+    background-color: #fceae8;
+}
+.zoom:hover {
+    transform: scale(1.4);}
